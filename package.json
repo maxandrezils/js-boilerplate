@@ -15,7 +15,10 @@
     "eslint-plugin-import": "^2.14.0"
   },
   "dependencies": {
+    "chalk": "^2.4.1",
     "express": "^4.16.3",
-    "open": "0.0.5"
+    "express-winston": "^2.6.0",
+    "open": "0.0.5",
+    "winston": "^3.0.0"
   }
 }
